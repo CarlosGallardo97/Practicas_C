@@ -1,1 +1,1 @@
-Code of practiceS in C language
+Code of practices in C language
