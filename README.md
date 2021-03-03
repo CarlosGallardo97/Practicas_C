@@ -1,1 +1,1 @@
-Practicas_C
+Code of practiceS in C language
